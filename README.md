@@ -14,7 +14,6 @@ Neste desafio foram abordados os seguintes temas:
 - Next;
 - components;
 - Props;
-- 
 
 ## 🛠 Tecnologias
 
@@ -32,7 +31,7 @@ $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse <   localHost:3000
 ```
----
+
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -40,10 +39,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - TypeScript
 - TailwindCss
----
 
-<br>
-<br>
+
 
 
  🚀 Como executar o projeto.
@@ -55,7 +52,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-<br>
+
 
  
 
