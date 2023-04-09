@@ -14,7 +14,7 @@ Neste desafio foram abordados os seguintes temas:
 - Next;
 - components;
 - Props;
----
+- 
 
 ## 🛠 Tecnologias
 
@@ -45,10 +45,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 <br>
 
-## 🚀 Como executar o projeto.
+
+ 🚀 Como executar o projeto.
 
 
-### Pré-requisitos
+Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -60,8 +61,5 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 
 
-
-
----
-## Deploy do projeto.
+ Deploy do projeto.
 https://linktree-zeta.vercel.app/
